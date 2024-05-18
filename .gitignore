@@ -1,0 +1,8 @@
+*.jpg
+bird_not_bird/
+person_state/
+.ipynb_checkpoints/
+titanic/
+us-patent-phrase-to-phrase-matching/
+*.zip
+untitled.py
