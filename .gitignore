@@ -4,5 +4,9 @@ person_state/
 .ipynb_checkpoints/
 titanic/
 us-patent-phrase-to-phrase-matching/
+hfmodel/
+outputs/
+submission.csv
 *.zip
 untitled.py
+Untitled.ipynb

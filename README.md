@@ -62,7 +62,7 @@ pip install torchviz
 
 This will also be necessary down the road:
 ```shell
-conda install -c conda-forge kaggle datasets
+conda install -c conda-forge kaggle datasets protobuf accelerate
 ```
 
 # File structure
