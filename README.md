@@ -11,7 +11,7 @@ Release:        22.04
 Codename:       jammy    
 ```
 
-Using drivers NVidia drivers `537.58`. Latest drivers as of April 2024 are `552.22` which do not work, i.e. Python `torch` does not `cuda.is_available()`
+Works using drivers Nvidia drivers `537.58`. Latest drivers as of April 2024 are `552.22` which do not work, i.e. Python `torch` does not `cuda.is_available()`
 
 ```shell
 sudo apt update && sudo apt -y upgrade
@@ -63,6 +63,12 @@ pip install torchviz
 This will also be necessary down the road:
 ```shell
 conda install -c conda-forge kaggle datasets protobuf accelerate
+```
+
+And this:
+```shell
+conda install -c conda-forge opencv easyocr
+sudo apt install -y libgl1-mesa-glx
 ```
 
 # File structure
