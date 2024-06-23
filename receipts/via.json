@@ -21,12 +21,12 @@
             }
         },
         "core": {
-            "buffer_size": 18,
+            "buffer_size": "18",
             "filepath": {},
-            "default_filepath": ""
+            "default_filepath": "\\\\wsl.localhost\\Ubuntu\\home\\mark\\ml\\mlclean\\receipts\\images\\"
         },
         "project": {
-            "name": "via_project_19Jun2024_21h37m"
+            "name": "via"
         }
     },
     "_via_img_metadata": {
@@ -1734,151 +1734,5324 @@
         "receipt_157.jpg107416": {
             "filename": "receipt_157.jpg",
             "size": 107416,
-            "regions": [],
-            "file_attributes": {}
-        },
-        "receipt_158.jpg96863": {
-            "filename": "receipt_158.jpg",
-            "size": 96863,
-            "regions": [],
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            273,
+                            440,
+                            440,
+                            277,
+                            277
+                        ],
+                        "all_points_y": [
+                            649,
+                            653,
+                            634,
+                            626,
+                            647
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            214,
+                            213,
+                            128,
+                            129
+                        ],
+                        "all_points_y": [
+                            953,
+                            932,
+                            933,
+                            951
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
             "file_attributes": {}
         },
         "receipt_159.jpg25826": {
             "filename": "receipt_159.jpg",
             "size": 25826,
-            "regions": [],
-            "file_attributes": {}
-        },
-        "receipt_160.jpg440782": {
-            "filename": "receipt_160.jpg",
-            "size": 440782,
-            "regions": [],
-            "file_attributes": {}
-        },
-        "receipt_161.jpg267552": {
-            "filename": "receipt_161.jpg",
-            "size": 267552,
-            "regions": [],
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            134,
+                            271,
+                            270,
+                            132
+                        ],
+                        "all_points_y": [
+                            188,
+                            175,
+                            164,
+                            180
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 244,
+                        "y": 198,
+                        "width": 52,
+                        "height": 16
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
             "file_attributes": {}
         },
         "receipt_162.png80409": {
             "filename": "receipt_162.png",
             "size": 80409,
-            "regions": [],
-            "file_attributes": {}
-        },
-        "receipt_163.jpg292795": {
-            "filename": "receipt_163.jpg",
-            "size": 292795,
-            "regions": [],
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 222,
+                        "y": 403,
+                        "width": 102,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 118,
+                        "y": 635,
+                        "width": 90,
+                        "height": 21
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
             "file_attributes": {}
         },
         "receipt_164.png118231": {
             "filename": "receipt_164.png",
             "size": 118231,
-            "regions": [],
-            "file_attributes": {}
-        },
-        "receipt_165.png80409": {
-            "filename": "receipt_165.png",
-            "size": 80409,
-            "regions": [],
-            "file_attributes": {}
-        },
-        "receipt_166.jpg267552": {
-            "filename": "receipt_166.jpg",
-            "size": 267552,
-            "regions": [],
-            "file_attributes": {}
-        },
-        "receipt_167.jpg140132": {
-            "filename": "receipt_167.jpg",
-            "size": 140132,
-            "regions": [],
-            "file_attributes": {}
-        },
-        "receipt_168.jpg70346": {
-            "filename": "receipt_168.jpg",
-            "size": 70346,
-            "regions": [],
-            "file_attributes": {}
-        },
-        "receipt_169.jpg82154": {
-            "filename": "receipt_169.jpg",
-            "size": 82154,
-            "regions": [],
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 141,
+                        "y": 537,
+                        "width": 583,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 139,
+                        "y": 453,
+                        "width": 159,
+                        "height": 36
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
             "file_attributes": {}
         },
         "receipt_170.jpg49227": {
             "filename": "receipt_170.jpg",
             "size": 49227,
-            "regions": [],
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            39,
+                            283,
+                            283,
+                            40
+                        ],
+                        "all_points_y": [
+                            436,
+                            432,
+                            420,
+                            425
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
             "file_attributes": {}
         },
         "receipt_171.jpg87407": {
             "filename": "receipt_171.jpg",
             "size": 87407,
-            "regions": [],
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            161,
+                            506,
+                            510,
+                            159
+                        ],
+                        "all_points_y": [
+                            846,
+                            851,
+                            826,
+                            822
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
             "file_attributes": {}
         },
         "receipt_172.jpg59796": {
             "filename": "receipt_172.jpg",
             "size": 59796,
-            "regions": [],
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 518,
+                        "y": 1163,
+                        "width": 180,
+                        "height": 45
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 823,
+                        "y": 1222,
+                        "width": 368,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
             "file_attributes": {}
         },
         "receipt_173.jpg157404": {
             "filename": "receipt_173.jpg",
             "size": 157404,
-            "regions": [],
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 146,
+                        "y": 473,
+                        "width": 530,
+                        "height": 22
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 137,
+                        "y": 586,
+                        "width": 150,
+                        "height": 37
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
             "file_attributes": {}
         },
         "receipt_174.png161942": {
             "filename": "receipt_174.png",
             "size": 161942,
-            "regions": [],
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 137,
+                        "y": 373,
+                        "width": 149,
+                        "height": 15
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 165,
+                        "y": 170,
+                        "width": 64,
+                        "height": 23
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
             "file_attributes": {}
         },
         "receipt_175.png88034": {
             "filename": "receipt_175.png",
             "size": 88034,
-            "regions": [],
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 84,
+                        "y": 311,
+                        "width": 240,
+                        "height": 22
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 4,
+                        "y": 492,
+                        "width": 82,
+                        "height": 22
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
             "file_attributes": {}
         },
         "receipt_176.jpg102729": {
             "filename": "receipt_176.jpg",
             "size": 102729,
-            "regions": [],
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 7,
+                        "y": 787,
+                        "width": 534,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 7,
+                        "y": 1191,
+                        "width": 195,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
             "file_attributes": {}
         },
         "receipt_177.JPG1314935": {
             "filename": "receipt_177.JPG",
             "size": 1314935,
-            "regions": [],
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 906,
+                        "y": 1980,
+                        "width": 1011,
+                        "height": 98
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1131,
+                        "y": 685,
+                        "width": 404,
+                        "height": 74
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
             "file_attributes": {}
         },
         "receipt_178.jpg129779": {
             "filename": "receipt_178.jpg",
             "size": 129779,
-            "regions": [],
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 132,
+                        "y": 671,
+                        "width": 363,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 80,
+                        "y": 351,
+                        "width": 146,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
             "file_attributes": {}
         },
         "receipt_179.jpg232348": {
             "filename": "receipt_179.jpg",
             "size": 232348,
-            "regions": [],
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            184,
+                            757,
+                            863,
+                            865,
+                            182
+                        ],
+                        "all_points_y": [
+                            1587,
+                            1609,
+                            1602,
+                            1566,
+                            1551
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 182,
+                        "y": 1620,
+                        "width": 171,
+                        "height": 36
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
             "file_attributes": {}
         },
         "receipt_180.jpg39421": {
             "filename": "receipt_180.jpg",
             "size": 39421,
-            "regions": [],
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 313,
+                        "y": 267,
+                        "width": 130,
+                        "height": 20
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 215,
+                        "y": 609,
+                        "width": 67,
+                        "height": 14
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
             "file_attributes": {}
         },
         "receipt_181.jpg27838": {
             "filename": "receipt_181.jpg",
             "size": 27838,
-            "regions": [],
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            139,
+                            204,
+                            206,
+                            140
+                        ],
+                        "all_points_y": [
+                            231,
+                            232,
+                            222,
+                            221
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 38,
+                        "y": 61,
+                        "width": 50,
+                        "height": 10
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_182.jpg178806": {
+            "filename": "receipt_182.jpg",
+            "size": 178806,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 399,
+                        "y": 926,
+                        "width": 348,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_183.jpg22820": {
+            "filename": "receipt_183.jpg",
+            "size": 22820,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 462,
+                        "y": 728,
+                        "width": 223,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 533,
+                        "y": 103,
+                        "width": 53,
+                        "height": 23
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_187.jpg759979": {
+            "filename": "receipt_187.jpg",
+            "size": 759979,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 987,
+                        "y": 2129,
+                        "width": 569,
+                        "height": 95
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 670,
+                        "y": 1201,
+                        "width": 296,
+                        "height": 84
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_194.jpg38925": {
+            "filename": "receipt_194.jpg",
+            "size": 38925,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 177,
+                        "y": 281,
+                        "width": 115,
+                        "height": 16
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 73,
+                        "y": 587,
+                        "width": 67,
+                        "height": 19
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_195.jpg962613": {
+            "filename": "receipt_195.jpg",
+            "size": 962613,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 797,
+                        "y": 1659,
+                        "width": 1075,
+                        "height": 182
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1196,
+                        "y": 901,
+                        "width": 403,
+                        "height": 100
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_199.jpg247718": {
+            "filename": "receipt_199.jpg",
+            "size": 247718,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 600,
+                        "y": 650,
+                        "width": 219,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 403,
+                        "y": 1137,
+                        "width": 139,
+                        "height": 39
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_201.JPG140871": {
+            "filename": "receipt_201.JPG",
+            "size": 140871,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            557,
+                            848,
+                            829,
+                            557
+                        ],
+                        "all_points_y": [
+                            774,
+                            749,
+                            688,
+                            719
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            293,
+                            143,
+                            143,
+                            295
+                        ],
+                        "all_points_y": [
+                            405,
+                            385,
+                            348,
+                            369
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_202.jpg150761": {
+            "filename": "receipt_202.jpg",
+            "size": 150761,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 210,
+                        "y": 605,
+                        "width": 139,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 53,
+                        "y": 287,
+                        "width": 105,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_212.jpg120972": {
+            "filename": "receipt_212.jpg",
+            "size": 120972,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 300,
+                        "y": 550,
+                        "width": 236,
+                        "height": 23
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 391,
+                        "y": 892,
+                        "width": 115,
+                        "height": 23
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_215.jpg224732": {
+            "filename": "receipt_215.jpg",
+            "size": 224732,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 142,
+                        "y": 1012,
+                        "width": 730,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 140,
+                        "y": 1464,
+                        "width": 199,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_216.png125250": {
+            "filename": "receipt_216.png",
+            "size": 125250,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 578,
+                        "y": 490,
+                        "width": 291,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 672,
+                        "y": 66,
+                        "width": 102,
+                        "height": 17
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_217.jpg888980": {
+            "filename": "receipt_217.jpg",
+            "size": 888980,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 462,
+                        "y": 1028,
+                        "width": 579,
+                        "height": 45
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 347,
+                        "y": 1341,
+                        "width": 200,
+                        "height": 56
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_231.jpg384058": {
+            "filename": "receipt_231.jpg",
+            "size": 384058,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            606,
+                            904,
+                            899,
+                            610
+                        ],
+                        "all_points_y": [
+                            941,
+                            954,
+                            915,
+                            906
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 86,
+                        "y": 1091,
+                        "width": 181,
+                        "height": 48
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_233.jpg88636": {
+            "filename": "receipt_233.jpg",
+            "size": 88636,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 294,
+                        "y": 504,
+                        "width": 197,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 139,
+                        "y": 738,
+                        "width": 111,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_246.jpeg771250": {
+            "filename": "receipt_246.jpeg",
+            "size": 771250,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1113,
+                        "y": 2008,
+                        "width": 904,
+                        "height": 81
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1328,
+                        "y": 947,
+                        "width": 283,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_247.jpg262185": {
+            "filename": "receipt_247.jpg",
+            "size": 262185,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            227,
+                            396,
+                            671,
+                            884,
+                            877,
+                            870,
+                            385,
+                            226
+                        ],
+                        "all_points_y": [
+                            1340,
+                            1326,
+                            1347,
+                            1336,
+                            1292,
+                            1260,
+                            1284,
+                            1305
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            366,
+                            203,
+                            203,
+                            369
+                        ],
+                        "all_points_y": [
+                            508,
+                            508,
+                            457,
+                            457
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_248.jpg132411": {
+            "filename": "receipt_248.jpg",
+            "size": 132411,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            317,
+                            341,
+                            397,
+                            397,
+                            315
+                        ],
+                        "all_points_y": [
+                            381,
+                            381,
+                            381,
+                            369,
+                            369
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            215,
+                            273,
+                            273,
+                            217
+                        ],
+                        "all_points_y": [
+                            586,
+                            588,
+                            573,
+                            575
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_249.jpg1311049": {
+            "filename": "receipt_249.jpg",
+            "size": 1311049,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            830,
+                            1560,
+                            2047,
+                            2268,
+                            2261,
+                            1481,
+                            821
+                        ],
+                        "all_points_y": [
+                            881,
+                            884,
+                            884,
+                            881,
+                            815,
+                            824,
+                            815
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 808,
+                        "y": 991,
+                        "width": 418,
+                        "height": 69
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_255.jpg24512": {
+            "filename": "receipt_255.jpg",
+            "size": 24512,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 72,
+                        "y": 223,
+                        "width": 127,
+                        "height": 19
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            68,
+                            73,
+                            90,
+                            117,
+                            120,
+                            67
+                        ],
+                        "all_points_y": [
+                            292,
+                            294,
+                            293,
+                            291,
+                            278,
+                            282
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_263.jpg103790": {
+            "filename": "receipt_263.jpg",
+            "size": 103790,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            96,
+                            376,
+                            366,
+                            89
+                        ],
+                        "all_points_y": [
+                            637,
+                            602,
+                            578,
+                            614
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_265.png120359": {
+            "filename": "receipt_265.png",
+            "size": 120359,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 129,
+                        "y": 1043,
+                        "width": 736,
+                        "height": 82
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 584,
+                        "y": 319,
+                        "width": 272,
+                        "height": 67
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_266.jpg8284": {
+            "filename": "receipt_266.jpg",
+            "size": 8284,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 5,
+                        "y": 145,
+                        "width": 145,
+                        "height": 13
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 8,
+                        "y": 260,
+                        "width": 61,
+                        "height": 13
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_267.png270414": {
+            "filename": "receipt_267.png",
+            "size": 270414,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            296,
+                            306,
+                            355,
+                            447,
+                            526,
+                            531,
+                            465,
+                            322,
+                            297
+                        ],
+                        "all_points_y": [
+                            860,
+                            864,
+                            858,
+                            852,
+                            848,
+                            827,
+                            830,
+                            840,
+                            846
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            168,
+                            200,
+                            226,
+                            248,
+                            271,
+                            266,
+                            168
+                        ],
+                        "all_points_y": [
+                            980,
+                            972,
+                            961,
+                            951,
+                            948,
+                            925,
+                            956
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_271.jpg133172": {
+            "filename": "receipt_271.jpg",
+            "size": 133172,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            345,
+                            345,
+                            532,
+                            532,
+                            347
+                        ],
+                        "all_points_y": [
+                            618,
+                            624,
+                            629,
+                            607,
+                            601
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            307,
+                            206,
+                            207,
+                            298
+                        ],
+                        "all_points_y": [
+                            898,
+                            897,
+                            874,
+                            880
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_275.png416521": {
+            "filename": "receipt_275.png",
+            "size": 416521,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            72,
+                            335,
+                            999,
+                            998,
+                            192,
+                            64
+                        ],
+                        "all_points_y": [
+                            829,
+                            820,
+                            805,
+                            754,
+                            773,
+                            776
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_279.jpg8306": {
+            "filename": "receipt_279.jpg",
+            "size": 8306,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 88,
+                        "y": 283,
+                        "width": 127,
+                        "height": 12
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_283.jpg293240": {
+            "filename": "receipt_283.jpg",
+            "size": 293240,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 467,
+                        "y": 1029,
+                        "width": 579,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 347,
+                        "y": 1338,
+                        "width": 207,
+                        "height": 52
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_293.jpeg216146": {
+            "filename": "receipt_293.jpeg",
+            "size": 216146,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 237,
+                        "y": 1028,
+                        "width": 397,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 289,
+                        "y": 469,
+                        "width": 122,
+                        "height": 36
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_294.jpg89848": {
+            "filename": "receipt_294.jpg",
+            "size": 89848,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            89,
+                            138,
+                            246,
+                            305,
+                            349,
+                            347,
+                            89
+                        ],
+                        "all_points_y": [
+                            540,
+                            540,
+                            533,
+                            541,
+                            541,
+                            521,
+                            523
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 236,
+                        "y": 133,
+                        "width": 83,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_303.jpg261377": {
+            "filename": "receipt_303.jpg",
+            "size": 261377,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            624,
+                            708,
+                            786,
+                            866,
+                            861,
+                            628
+                        ],
+                        "all_points_y": [
+                            826,
+                            827,
+                            826,
+                            822,
+                            796,
+                            802
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            569,
+                            444,
+                            444,
+                            567
+                        ],
+                        "all_points_y": [
+                            1338,
+                            1347,
+                            1309,
+                            1303
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_306.jpg304291": {
+            "filename": "receipt_306.jpg",
+            "size": 304291,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1584,
+                        "y": 2420,
+                        "width": 633,
+                        "height": 93
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1831,
+                        "y": 458,
+                        "width": 396,
+                        "height": 54
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_309.png186878": {
+            "filename": "receipt_309.png",
+            "size": 186878,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1613,
+                        "y": 2667,
+                        "width": 427,
+                        "height": 82
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1857,
+                        "y": 393,
+                        "width": 206,
+                        "height": 67
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_310.jpg47231": {
+            "filename": "receipt_310.jpg",
+            "size": 47231,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 294,
+                        "y": 822,
+                        "width": 210,
+                        "height": 19
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 122,
+                        "y": 1117,
+                        "width": 121,
+                        "height": 22
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_314.jpg196315": {
+            "filename": "receipt_314.jpg",
+            "size": 196315,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 833,
+                        "y": 1157,
+                        "width": 555,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 18,
+                        "y": 492,
+                        "width": 291,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_344.jpg8853": {
+            "filename": "receipt_344.jpg",
+            "size": 8853,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 16,
+                        "y": 292,
+                        "width": 107,
+                        "height": 15
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3,
+                        "y": 77,
+                        "width": 67,
+                        "height": 17
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_356.jpg312566": {
+            "filename": "receipt_356.jpg",
+            "size": 312566,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 153,
+                        "y": 1154,
+                        "width": 473,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            203,
+                            42,
+                            42,
+                            197
+                        ],
+                        "all_points_y": [
+                            1472,
+                            1468,
+                            1427,
+                            1435
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_365.jpg854808": {
+            "filename": "receipt_365.jpg",
+            "size": 854808,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            357,
+                            1300,
+                            1298,
+                            363
+                        ],
+                        "all_points_y": [
+                            1002,
+                            978,
+                            923,
+                            947
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 365,
+                        "y": 1096,
+                        "width": 230,
+                        "height": 70
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_382.jpg213164": {
+            "filename": "receipt_382.jpg",
+            "size": 213164,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 469,
+                        "y": 382,
+                        "width": 287,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 79,
+                        "y": 534,
+                        "width": 160,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_385.jpg431477": {
+            "filename": "receipt_385.jpg",
+            "size": 431477,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            5,
+                            335,
+                            725,
+                            1177,
+                            1382,
+                            1490,
+                            1490,
+                            697,
+                            19
+                        ],
+                        "all_points_y": [
+                            1505,
+                            1502,
+                            1492,
+                            1489,
+                            1476,
+                            1476,
+                            1417,
+                            1430,
+                            1451
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_392.jpeg283259": {
+            "filename": "receipt_392.jpeg",
+            "size": 283259,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 382,
+                        "y": 804,
+                        "width": 166,
+                        "height": 22
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 549,
+                        "y": 601,
+                        "width": 62,
+                        "height": 36
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_396.png211035": {
+            "filename": "receipt_396.png",
+            "size": 211035,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 296,
+                        "y": 670,
+                        "width": 253,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_404.jpg1239796": {
+            "filename": "receipt_404.jpg",
+            "size": 1239796,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            2077,
+                            2286,
+                            2414,
+                            2508,
+                            2512,
+                            2433,
+                            2289,
+                            2079
+                        ],
+                        "all_points_y": [
+                            1800,
+                            1771,
+                            1757,
+                            1757,
+                            1704,
+                            1701,
+                            1699,
+                            1733
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            1641,
+                            1314,
+                            1309,
+                            1624
+                        ],
+                        "all_points_y": [
+                            895,
+                            912,
+                            845,
+                            842
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_405.jpg171403": {
+            "filename": "receipt_405.jpg",
+            "size": 171403,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 673,
+                        "y": 986,
+                        "width": 189,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 697,
+                        "y": 1352,
+                        "width": 83,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_409.png305752": {
+            "filename": "receipt_409.png",
+            "size": 305752,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 17,
+                        "y": 546,
+                        "width": 411,
+                        "height": 27
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 64,
+                        "y": 901,
+                        "width": 111,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_412.jpg18039": {
+            "filename": "receipt_412.jpg",
+            "size": 18039,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 244,
+                        "y": 118,
+                        "width": 61,
+                        "height": 9
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 192,
+                        "y": 199,
+                        "width": 37,
+                        "height": 10
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_415.jpg996546": {
+            "filename": "receipt_415.jpg",
+            "size": 996546,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 601,
+                        "y": 2095,
+                        "width": 402,
+                        "height": 57
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_420.JPG144191": {
+            "filename": "receipt_420.JPG",
+            "size": 144191,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 709,
+                        "y": 874,
+                        "width": 414,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 46,
+                        "y": 1091,
+                        "width": 224,
+                        "height": 74
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_423.png414633": {
+            "filename": "receipt_423.png",
+            "size": 414633,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 245,
+                        "y": 148,
+                        "width": 82,
+                        "height": 20
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 206,
+                        "y": 704,
+                        "width": 274,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_426.jpg95125": {
+            "filename": "receipt_426.jpg",
+            "size": 95125,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            405,
+                            654,
+                            652,
+                            400
+                        ],
+                        "all_points_y": [
+                            400,
+                            396,
+                            365,
+                            368
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_433.jpg1144935": {
+            "filename": "receipt_433.jpg",
+            "size": 1144935,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 265,
+                        "y": 867,
+                        "width": 2136,
+                        "height": 104
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 241,
+                        "y": 1242,
+                        "width": 559,
+                        "height": 104
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_435.jpg48762": {
+            "filename": "receipt_435.jpg",
+            "size": 48762,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 163,
+                        "y": 480,
+                        "width": 142,
+                        "height": 20
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 156,
+                        "y": 217,
+                        "width": 63,
+                        "height": 17
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_437.jpg248578": {
+            "filename": "receipt_437.jpg",
+            "size": 248578,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            436,
+                            537,
+                            646,
+                            749,
+                            742,
+                            593,
+                            507,
+                            439
+                        ],
+                        "all_points_y": [
+                            1038,
+                            1029,
+                            1013,
+                            1002,
+                            979,
+                            1000,
+                            1009,
+                            1019
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 365,
+                        "y": 537,
+                        "width": 88,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_438.jpg117242": {
+            "filename": "receipt_438.jpg",
+            "size": 117242,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 229,
+                        "y": 739,
+                        "width": 91,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            317,
+                            345,
+                            406,
+                            597,
+                            593,
+                            489,
+                            319
+                        ],
+                        "all_points_y": [
+                            492,
+                            494,
+                            492,
+                            479,
+                            457,
+                            471,
+                            475
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_442.jpg1027931": {
+            "filename": "receipt_442.jpg",
+            "size": 1027931,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 173,
+                        "y": 505,
+                        "width": 249,
+                        "height": 56
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 49,
+                        "y": 1746,
+                        "width": 873,
+                        "height": 54
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_446.jpg50664": {
+            "filename": "receipt_446.jpg",
+            "size": 50664,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 298,
+                        "y": 500,
+                        "width": 184,
+                        "height": 23
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 151,
+                        "y": 717,
+                        "width": 103,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_447.jpg85438": {
+            "filename": "receipt_447.jpg",
+            "size": 85438,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 216,
+                        "y": 599,
+                        "width": 357,
+                        "height": 36
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 349,
+                        "y": 752,
+                        "width": 105,
+                        "height": 31
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_448.png20780": {
+            "filename": "receipt_448.png",
+            "size": 20780,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 270,
+                        "y": 526,
+                        "width": 151,
+                        "height": 12
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 183,
+                        "y": 242,
+                        "width": 79,
+                        "height": 10
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_450.jpg232250": {
+            "filename": "receipt_450.jpg",
+            "size": 232250,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 352,
+                        "y": 665,
+                        "width": 183,
+                        "height": 22
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_451.png387167": {
+            "filename": "receipt_451.png",
+            "size": 387167,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1275,
+                        "y": 1315,
+                        "width": 362,
+                        "height": 60
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 843,
+                        "y": 773,
+                        "width": 234,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_454.jpg35818": {
+            "filename": "receipt_454.jpg",
+            "size": 35818,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 244,
+                        "y": 527,
+                        "width": 152,
+                        "height": 22
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 150,
+                        "y": 237,
+                        "width": 89,
+                        "height": 27
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_457.jpg247840": {
+            "filename": "receipt_457.jpg",
+            "size": 247840,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 384,
+                        "y": 534,
+                        "width": 203,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 64,
+                        "y": 151,
+                        "width": 150,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_461.jpeg177931": {
+            "filename": "receipt_461.jpeg",
+            "size": 177931,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 222,
+                        "y": 602,
+                        "width": 301,
+                        "height": 31
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 157,
+                        "y": 1272,
+                        "width": 307,
+                        "height": 65
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_462.jpg7490": {
+            "filename": "receipt_462.jpg",
+            "size": 7490,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 203,
+                        "width": 103,
+                        "height": 17
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 15,
+                        "y": 65,
+                        "width": 60,
+                        "height": 11
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_463.png29673": {
+            "filename": "receipt_463.png",
+            "size": 29673,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 319,
+                        "y": 154,
+                        "width": 398,
+                        "height": 84
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 71,
+                        "y": 462,
+                        "width": 167,
+                        "height": 39
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_464.jpg277031": {
+            "filename": "receipt_464.jpg",
+            "size": 277031,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            481,
+                            551,
+                            650,
+                            707,
+                            701,
+                            475
+                        ],
+                        "all_points_y": [
+                            803,
+                            803,
+                            796,
+                            793,
+                            766,
+                            779
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            294,
+                            427,
+                            420,
+                            285
+                        ],
+                        "all_points_y": [
+                            1050,
+                            1035,
+                            1007,
+                            1019
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_472.jpg134121": {
+            "filename": "receipt_472.jpg",
+            "size": 134121,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 398,
+                        "y": 821,
+                        "width": 172,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 344,
+                        "y": 474,
+                        "width": 94,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_474.jpg88287": {
+            "filename": "receipt_474.jpg",
+            "size": 88287,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 341,
+                        "y": 256,
+                        "width": 107,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 133,
+                        "y": 558,
+                        "width": 308,
+                        "height": 18
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_476.jpeg279680": {
+            "filename": "receipt_476.jpeg",
+            "size": 279680,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 159,
+                        "y": 963,
+                        "width": 548,
+                        "height": 60
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 571,
+                        "y": 605,
+                        "width": 122,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_481.jpg88609": {
+            "filename": "receipt_481.jpg",
+            "size": 88609,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 374,
+                        "y": 471,
+                        "width": 255,
+                        "height": 23
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 420,
+                        "y": 309,
+                        "width": 107,
+                        "height": 22
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_483.jpg56130": {
+            "filename": "receipt_483.jpg",
+            "size": 56130,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 336,
+                        "y": 775,
+                        "width": 339,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 285,
+                        "y": 282,
+                        "width": 128,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_490.jpg148075": {
+            "filename": "receipt_490.jpg",
+            "size": 148075,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 216,
+                        "y": 762,
+                        "width": 560,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 256,
+                        "y": 350,
+                        "width": 108,
+                        "height": 20
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_499.jpg101993": {
+            "filename": "receipt_499.jpg",
+            "size": 101993,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 302,
+                        "y": 318,
+                        "width": 197,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 142,
+                        "y": 574,
+                        "width": 113,
+                        "height": 18
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_501.jpg76890": {
+            "filename": "receipt_501.jpg",
+            "size": 76890,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            221,
+                            271,
+                            480,
+                            557,
+                            557,
+                            285,
+                            222
+                        ],
+                        "all_points_y": [
+                            456,
+                            453,
+                            448,
+                            444,
+                            427,
+                            443,
+                            443
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            307,
+                            307,
+                            221,
+                            221
+                        ],
+                        "all_points_y": [
+                            418,
+                            437,
+                            441,
+                            424
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_508.jpg46864": {
+            "filename": "receipt_508.jpg",
+            "size": 46864,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 233,
+                        "y": 363,
+                        "width": 305,
+                        "height": 12
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 165,
+                        "y": 133,
+                        "width": 111,
+                        "height": 16
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_511.jpg146658": {
+            "filename": "receipt_511.jpg",
+            "size": 146658,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1204,
+                        "y": 1901,
+                        "width": 385,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 780,
+                        "y": 1334,
+                        "width": 195,
+                        "height": 45
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_512.png16336": {
+            "filename": "receipt_512.png",
+            "size": 16336,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 523,
+                        "y": 998,
+                        "width": 277,
+                        "height": 37
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 303,
+                        "y": 289,
+                        "width": 154,
+                        "height": 39
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_513.jpg22790": {
+            "filename": "receipt_513.jpg",
+            "size": 22790,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 51,
+                        "y": 401,
+                        "width": 262,
+                        "height": 20
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_514.png8727": {
+            "filename": "receipt_514.png",
+            "size": 8727,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 365,
+                        "y": 577,
+                        "width": 115,
+                        "height": 11
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 421,
+                        "y": 72,
+                        "width": 48,
+                        "height": 13
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_515.jpg141008": {
+            "filename": "receipt_515.jpg",
+            "size": 141008,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            1122,
+                            1201,
+                            1397,
+                            1492,
+                            1483,
+                            1348,
+                            1210,
+                            1189,
+                            1119
+                        ],
+                        "all_points_y": [
+                            1891,
+                            1886,
+                            1903,
+                            1891,
+                            1865,
+                            1868,
+                            1863,
+                            1842,
+                            1849
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 989,
+                        "y": 1429,
+                        "width": 159,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_516.jpg333897": {
+            "filename": "receipt_516.jpg",
+            "size": 333897,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 500,
+                        "y": 1509,
+                        "width": 775,
+                        "height": 90
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_517.png252468": {
+            "filename": "receipt_517.png",
+            "size": 252468,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 199,
+                        "y": 787,
+                        "width": 310,
+                        "height": 17
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 356,
+                        "y": 850,
+                        "width": 69,
+                        "height": 18
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_519.png152683": {
+            "filename": "receipt_519.png",
+            "size": 152683,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 249,
+                        "y": 559,
+                        "width": 212,
+                        "height": 19
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_522.jpg118454": {
+            "filename": "receipt_522.jpg",
+            "size": 118454,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 858,
+                        "y": 901,
+                        "width": 327,
+                        "height": 20
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1090,
+                        "y": 356,
+                        "width": 68,
+                        "height": 12
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_524.jpg274422": {
+            "filename": "receipt_524.jpg",
+            "size": 274422,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 414,
+                        "y": 918,
+                        "width": 666,
+                        "height": 75
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_525.jpg38022": {
+            "filename": "receipt_525.jpg",
+            "size": 38022,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 36,
+                        "y": 630,
+                        "width": 191,
+                        "height": 74
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 40,
+                        "y": 437,
+                        "width": 97,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_526.jpg142999": {
+            "filename": "receipt_526.jpg",
+            "size": 142999,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 620,
+                        "y": 996,
+                        "width": 172,
+                        "height": 20
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 436,
+                        "y": 747,
+                        "width": 89,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_535.jpg105937": {
+            "filename": "receipt_535.jpg",
+            "size": 105937,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 374,
+                        "y": 667,
+                        "width": 202,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_536.jpg100310": {
+            "filename": "receipt_536.jpg",
+            "size": 100310,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            338,
+                            426,
+                            483,
+                            475,
+                            337
+                        ],
+                        "all_points_y": [
+                            553,
+                            548,
+                            541,
+                            518,
+                            535
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            326,
+                            260,
+                            237,
+                            235,
+                            324
+                        ],
+                        "all_points_y": [
+                            785,
+                            795,
+                            795,
+                            775,
+                            768
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_539.jpg87854": {
+            "filename": "receipt_539.jpg",
+            "size": 87854,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            99,
+                            127,
+                            268,
+                            417,
+                            658,
+                            722,
+                            716,
+                            95
+                        ],
+                        "all_points_y": [
+                            369,
+                            373,
+                            371,
+                            361,
+                            342,
+                            335,
+                            305,
+                            340
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 103,
+                        "y": 765,
+                        "width": 178,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_540.jpg311067": {
+            "filename": "receipt_540.jpg",
+            "size": 311067,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 695,
+                        "y": 1650,
+                        "width": 523,
+                        "height": 60
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 783,
+                        "y": 651,
+                        "width": 154,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_543.jpg1266349": {
+            "filename": "receipt_543.jpg",
+            "size": 1266349,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1249,
+                        "y": 2154,
+                        "width": 667,
+                        "height": 75
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 723,
+                        "y": 3777,
+                        "width": 390,
+                        "height": 132
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_545.png292795": {
+            "filename": "receipt_545.png",
+            "size": 292795,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1268,
+                        "y": 894,
+                        "width": 401,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 954,
+                        "y": 1678,
+                        "width": 209,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_549.jpg251620": {
+            "filename": "receipt_549.jpg",
+            "size": 251620,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 450,
+                        "y": 690,
+                        "width": 592,
+                        "height": 75
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_552.png52099": {
+            "filename": "receipt_552.png",
+            "size": 52099,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 551,
+                        "y": 639,
+                        "width": 197,
+                        "height": 18
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_554.jpg29964": {
+            "filename": "receipt_554.jpg",
+            "size": 29964,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 503,
+                        "y": 720,
+                        "width": 183,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 644,
+                        "y": 50,
+                        "width": 90,
+                        "height": 19
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_555.jpg81537": {
+            "filename": "receipt_555.jpg",
+            "size": 81537,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 438,
+                        "y": 606,
+                        "width": 292,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 9,
+                        "y": 258,
+                        "width": 154,
+                        "height": 20
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_564.jpg557361": {
+            "filename": "receipt_564.jpg",
+            "size": 557361,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1647,
+                        "y": 1759,
+                        "width": 472,
+                        "height": 54
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1812,
+                        "y": 501,
+                        "width": 171,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_565.jpg343740": {
+            "filename": "receipt_565.jpg",
+            "size": 343740,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 723,
+                        "y": 1795,
+                        "width": 541,
+                        "height": 36
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 991,
+                        "y": 1915,
+                        "width": 112,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_566.jpg541756": {
+            "filename": "receipt_566.jpg",
+            "size": 541756,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 5,
+                        "y": 1674,
+                        "width": 688,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 13,
+                        "y": 1746,
+                        "width": 166,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_568.jpg229182": {
+            "filename": "receipt_568.jpg",
+            "size": 229182,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 533,
+                        "y": 791,
+                        "width": 253,
+                        "height": 36
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 337,
+                        "y": 1311,
+                        "width": 150,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_572.jpeg34987": {
+            "filename": "receipt_572.jpeg",
+            "size": 34987,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 218,
+                        "y": 515,
+                        "width": 81,
+                        "height": 17
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_575.jpg96678": {
+            "filename": "receipt_575.jpg",
+            "size": 96678,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 122,
+                        "y": 630,
+                        "width": 347,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 157,
+                        "y": 720,
+                        "width": 97,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_576.jpg99918": {
+            "filename": "receipt_576.jpg",
+            "size": 99918,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 148,
+                        "y": 446,
+                        "width": 176,
+                        "height": 13
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 188,
+                        "y": 248,
+                        "width": 64,
+                        "height": 17
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_578.jpg65889": {
+            "filename": "receipt_578.jpg",
+            "size": 65889,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 66,
+                        "y": 649,
+                        "width": 512,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 299,
+                        "y": 917,
+                        "width": 114,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_579.jpg58942": {
+            "filename": "receipt_579.jpg",
+            "size": 58942,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 145,
+                        "y": 324,
+                        "width": 236,
+                        "height": 20
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 110,
+                        "y": 556,
+                        "width": 93,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_587.jpg1050012": {
+            "filename": "receipt_587.jpg",
+            "size": 1050012,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1253,
+                        "y": 3035,
+                        "width": 754,
+                        "height": 109
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_592.jpg142367": {
+            "filename": "receipt_592.jpg",
+            "size": 142367,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 385,
+                        "y": 680,
+                        "width": 213,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 213,
+                        "y": 1003,
+                        "width": 115,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_595.jpg11933": {
+            "filename": "receipt_595.jpg",
+            "size": 11933,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 39,
+                        "y": 195,
+                        "width": 106,
+                        "height": 13
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 17,
+                        "y": 100,
+                        "width": 51,
+                        "height": 15
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_600.jpg126308": {
+            "filename": "receipt_600.jpg",
+            "size": 126308,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 572,
+                        "y": 942,
+                        "width": 421,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 227,
+                        "y": 1754,
+                        "width": 257,
+                        "height": 57
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_606.jpg198794": {
+            "filename": "receipt_606.jpg",
+            "size": 198794,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 190,
+                        "y": 1701,
+                        "width": 865,
+                        "height": 61
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_607.jpg99746": {
+            "filename": "receipt_607.jpg",
+            "size": 99746,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            181,
+                            389,
+                            528,
+                            519,
+                            179
+                        ],
+                        "all_points_y": [
+                            568,
+                            544,
+                            519,
+                            490,
+                            546
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_611.jpg38688": {
+            "filename": "receipt_611.jpg",
+            "size": 38688,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 344,
+                        "y": 701,
+                        "width": 136,
+                        "height": 11
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 368,
+                        "y": 739,
+                        "width": 56,
+                        "height": 11
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_614.jpg20294": {
+            "filename": "receipt_614.jpg",
+            "size": 20294,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 129,
+                        "y": 144,
+                        "width": 66,
+                        "height": 10
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 77,
+                        "y": 243,
+                        "width": 38,
+                        "height": 12
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_618.jpg322997": {
+            "filename": "receipt_618.jpg",
+            "size": 322997,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            234,
+                            354,
+                            380,
+                            600,
+                            724,
+                            722,
+                            587,
+                            377,
+                            341,
+                            233
+                        ],
+                        "all_points_y": [
+                            83,
+                            99,
+                            115,
+                            109,
+                            87,
+                            56,
+                            78,
+                            93,
+                            76,
+                            62
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_619.jpg618165": {
+            "filename": "receipt_619.jpg",
+            "size": 618165,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 919,
+                        "y": 1803,
+                        "width": 672,
+                        "height": 102
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1073,
+                        "y": 2324,
+                        "width": 252,
+                        "height": 80
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_625.jpeg84457": {
+            "filename": "receipt_625.jpeg",
+            "size": 84457,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 189,
+                        "y": 842,
+                        "width": 228,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 22,
+                        "y": 278,
+                        "width": 110,
+                        "height": 22
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_626.jpg69318": {
+            "filename": "receipt_626.jpg",
+            "size": 69318,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 136,
+                        "y": 608,
+                        "width": 525,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_629.png144292": {
+            "filename": "receipt_629.png",
+            "size": 144292,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 165,
+                        "y": 281,
+                        "width": 103,
+                        "height": 15
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 93,
+                        "y": 430,
+                        "width": 53,
+                        "height": 17
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_635.jpg214173": {
+            "filename": "receipt_635.jpg",
+            "size": 214173,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 414,
+                        "y": 670,
+                        "width": 284,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 434,
+                        "y": 1525,
+                        "width": 140,
+                        "height": 62
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_637.jpg137179": {
+            "filename": "receipt_637.jpg",
+            "size": 137179,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 512,
+                        "y": 492,
+                        "width": 193,
+                        "height": 26
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_638.jpg88120": {
+            "filename": "receipt_638.jpg",
+            "size": 88120,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 665,
+                        "y": 991,
+                        "width": 293,
+                        "height": 39
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 421,
+                        "y": 947,
+                        "width": 145,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_639.jpg155590": {
+            "filename": "receipt_639.jpg",
+            "size": 155590,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 301,
+                        "y": 567,
+                        "width": 183,
+                        "height": 23
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 143,
+                        "y": 906,
+                        "width": 102,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_644.jpg151575": {
+            "filename": "receipt_644.jpg",
+            "size": 151575,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 358,
+                        "y": 628,
+                        "width": 193,
+                        "height": 23
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 204,
+                        "y": 1212,
+                        "width": 120,
+                        "height": 31
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_645.jpg30062": {
+            "filename": "receipt_645.jpg",
+            "size": 30062,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            301,
+                            482,
+                            486,
+                            307
+                        ],
+                        "all_points_y": [
+                            476,
+                            504,
+                            489,
+                            461
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            236,
+                            294,
+                            296,
+                            242
+                        ],
+                        "all_points_y": [
+                            557,
+                            568,
+                            553,
+                            542
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_659.jpg56744": {
+            "filename": "receipt_659.jpg",
+            "size": 56744,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 761,
+                        "y": 832,
+                        "width": 137,
+                        "height": 31
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 202,
+                        "y": 137,
+                        "width": 121,
+                        "height": 22
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_660.jpg65018": {
+            "filename": "receipt_660.jpg",
+            "size": 65018,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 46,
+                        "y": 754,
+                        "width": 484,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 261,
+                        "y": 345,
+                        "width": 136,
+                        "height": 36
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_663.jpeg66378": {
+            "filename": "receipt_663.jpeg",
+            "size": 66378,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 196,
+                        "y": 419,
+                        "width": 143,
+                        "height": 21
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 89,
+                        "y": 565,
+                        "width": 74,
+                        "height": 21
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_667.jpg181746": {
+            "filename": "receipt_667.jpg",
+            "size": 181746,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 112,
+                        "y": 1262,
+                        "width": 1173,
+                        "height": 77
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 695,
+                        "y": 503,
+                        "width": 250,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_669.jpg112710": {
+            "filename": "receipt_669.jpg",
+            "size": 112710,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 24,
+                        "y": 1262,
+                        "width": 738,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 210,
+                        "y": 340,
+                        "width": 379,
+                        "height": 56
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_671.jpg44898": {
+            "filename": "receipt_671.jpg",
+            "size": 44898,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 54,
+                        "y": 574,
+                        "width": 569,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 563,
+                        "y": 174,
+                        "width": 70,
+                        "height": 25
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_672.jpg2530508": {
+            "filename": "receipt_672.jpg",
+            "size": 2530508,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1566,
+                        "y": 3147,
+                        "width": 859,
+                        "height": 99
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_673.jpg183571": {
+            "filename": "receipt_673.jpg",
+            "size": 183571,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 400,
+                        "y": 1633,
+                        "width": 915,
+                        "height": 118
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1007,
+                        "y": 782,
+                        "width": 329,
+                        "height": 57
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_674.jpeg426238": {
+            "filename": "receipt_674.jpeg",
+            "size": 426238,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 271,
+                        "y": 484,
+                        "width": 219,
+                        "height": 21
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 391,
+                        "y": 232,
+                        "width": 75,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_676.jpg136850": {
+            "filename": "receipt_676.jpg",
+            "size": 136850,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1198,
+                        "y": 2158,
+                        "width": 332,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 831,
+                        "y": 1670,
+                        "width": 170,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_679.jpg331162": {
+            "filename": "receipt_679.jpg",
+            "size": 331162,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 567,
+                        "y": 970,
+                        "width": 464,
+                        "height": 64
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 223,
+                        "y": 1795,
+                        "width": 275,
+                        "height": 107
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_680.jpg1343118": {
+            "filename": "receipt_680.jpg",
+            "size": 1343118,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 786,
+                        "y": 876,
+                        "width": 163,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_684.jpg71322": {
+            "filename": "receipt_684.jpg",
+            "size": 71322,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 254,
+                        "y": 356,
+                        "width": 145,
+                        "height": 22
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 56,
+                        "y": 557,
+                        "width": 92,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_687.jpg70506": {
+            "filename": "receipt_687.jpg",
+            "size": 70506,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 221,
+                        "y": 347,
+                        "width": 301,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_689.jpg137436": {
+            "filename": "receipt_689.jpg",
+            "size": 137436,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 348,
+                        "y": 700,
+                        "width": 281,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 410,
+                        "y": 894,
+                        "width": 114,
+                        "height": 48
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_690.png104707": {
+            "filename": "receipt_690.png",
+            "size": 104707,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 12,
+                        "y": 237,
+                        "width": 211,
+                        "height": 17
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_694.jpg16213": {
+            "filename": "receipt_694.jpg",
+            "size": 16213,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 53,
+                        "y": 257,
+                        "width": 111,
+                        "height": 9
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_695.jpg19165": {
+            "filename": "receipt_695.jpg",
+            "size": 19165,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 89,
+                        "y": 195,
+                        "width": 62,
+                        "height": 9
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 38,
+                        "y": 287,
+                        "width": 38,
+                        "height": 11
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_697.jpg83942": {
+            "filename": "receipt_697.jpg",
+            "size": 83942,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 230,
+                        "y": 398,
+                        "width": 116,
+                        "height": 17
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 134,
+                        "y": 520,
+                        "width": 66,
+                        "height": 19
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_698.png1100566": {
+            "filename": "receipt_698.png",
+            "size": 1100566,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 494,
+                        "y": 829,
+                        "width": 538,
+                        "height": 65
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_702.png52574": {
+            "filename": "receipt_702.png",
+            "size": 52574,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 48,
+                        "y": 419,
+                        "width": 298,
+                        "height": 21
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 120,
+                        "y": 714,
+                        "width": 73,
+                        "height": 21
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_703.jpg49601": {
+            "filename": "receipt_703.jpg",
+            "size": 49601,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 360,
+                        "y": 728,
+                        "width": 161,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 270,
+                        "y": 436,
+                        "width": 80,
+                        "height": 21
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_704.JPG284983": {
+            "filename": "receipt_704.JPG",
+            "size": 284983,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            110,
+                            936,
+                            1102,
+                            1100,
+                            938,
+                            335,
+                            115
+                        ],
+                        "all_points_y": [
+                            1505,
+                            1538,
+                            1530,
+                            1590,
+                            1592,
+                            1579,
+                            1566
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_710.jpg251118": {
+            "filename": "receipt_710.jpg",
+            "size": 251118,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 106,
+                        "y": 1159,
+                        "width": 675,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 491,
+                        "y": 422,
+                        "width": 221,
+                        "height": 60
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_711.png110865": {
+            "filename": "receipt_711.png",
+            "size": 110865,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 114,
+                        "y": 1350,
+                        "width": 1112,
+                        "height": 88
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_717.jpg1547252": {
+            "filename": "receipt_717.jpg",
+            "size": 1547252,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            1540,
+                            2175,
+                            2191,
+                            1542
+                        ],
+                        "all_points_y": [
+                            1882,
+                            1857,
+                            1911,
+                            1935
+                        ]
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_719.jpg90300": {
+            "filename": "receipt_719.jpg",
+            "size": 90300,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 611,
+                        "y": 1214,
+                        "width": 292,
+                        "height": 49
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_722.jpg105623": {
+            "filename": "receipt_722.jpg",
+            "size": 105623,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 334,
+                        "y": 724,
+                        "width": 239,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 427,
+                        "y": 825,
+                        "width": 94,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "name": "date"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        },
+        "receipt_723.jpg119550": {
+            "filename": "receipt_723.jpg",
+            "size": 119550,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 493,
+                        "y": 549,
+                        "width": 98,
+                        "height": 22
+                    },
+                    "region_attributes": {
+                        "name": "total"
+                    }
+                }
+            ],
             "file_attributes": {}
         }
     },
@@ -1950,6 +7123,175 @@
         "receipt_144.jpg102952",
         "receipt_150.jpg89005",
         "receipt_153.png54604",
-        "receipt_154.jpg109463"
+        "receipt_154.jpg109463",
+        "receipt_157.jpg107416",
+        "receipt_159.jpg25826",
+        "receipt_162.png80409",
+        "receipt_164.png118231",
+        "receipt_170.jpg49227",
+        "receipt_171.jpg87407",
+        "receipt_172.jpg59796",
+        "receipt_173.jpg157404",
+        "receipt_174.png161942",
+        "receipt_175.png88034",
+        "receipt_176.jpg102729",
+        "receipt_177.JPG1314935",
+        "receipt_178.jpg129779",
+        "receipt_179.jpg232348",
+        "receipt_180.jpg39421",
+        "receipt_181.jpg27838",
+        "receipt_182.jpg178806",
+        "receipt_183.jpg22820",
+        "receipt_187.jpg759979",
+        "receipt_194.jpg38925",
+        "receipt_195.jpg962613",
+        "receipt_199.jpg247718",
+        "receipt_201.JPG140871",
+        "receipt_202.jpg150761",
+        "receipt_212.jpg120972",
+        "receipt_215.jpg224732",
+        "receipt_216.png125250",
+        "receipt_217.jpg888980",
+        "receipt_231.jpg384058",
+        "receipt_233.jpg88636",
+        "receipt_246.jpeg771250",
+        "receipt_247.jpg262185",
+        "receipt_248.jpg132411",
+        "receipt_249.jpg1311049",
+        "receipt_255.jpg24512",
+        "receipt_263.jpg103790",
+        "receipt_265.png120359",
+        "receipt_266.jpg8284",
+        "receipt_267.png270414",
+        "receipt_271.jpg133172",
+        "receipt_275.png416521",
+        "receipt_279.jpg8306",
+        "receipt_283.jpg293240",
+        "receipt_293.jpeg216146",
+        "receipt_294.jpg89848",
+        "receipt_303.jpg261377",
+        "receipt_306.jpg304291",
+        "receipt_309.png186878",
+        "receipt_310.jpg47231",
+        "receipt_314.jpg196315",
+        "receipt_344.jpg8853",
+        "receipt_356.jpg312566",
+        "receipt_365.jpg854808",
+        "receipt_382.jpg213164",
+        "receipt_385.jpg431477",
+        "receipt_392.jpeg283259",
+        "receipt_396.png211035",
+        "receipt_404.jpg1239796",
+        "receipt_405.jpg171403",
+        "receipt_409.png305752",
+        "receipt_412.jpg18039",
+        "receipt_415.jpg996546",
+        "receipt_420.JPG144191",
+        "receipt_423.png414633",
+        "receipt_426.jpg95125",
+        "receipt_433.jpg1144935",
+        "receipt_435.jpg48762",
+        "receipt_437.jpg248578",
+        "receipt_438.jpg117242",
+        "receipt_442.jpg1027931",
+        "receipt_446.jpg50664",
+        "receipt_447.jpg85438",
+        "receipt_448.png20780",
+        "receipt_450.jpg232250",
+        "receipt_451.png387167",
+        "receipt_454.jpg35818",
+        "receipt_457.jpg247840",
+        "receipt_461.jpeg177931",
+        "receipt_462.jpg7490",
+        "receipt_463.png29673",
+        "receipt_464.jpg277031",
+        "receipt_472.jpg134121",
+        "receipt_474.jpg88287",
+        "receipt_476.jpeg279680",
+        "receipt_481.jpg88609",
+        "receipt_483.jpg56130",
+        "receipt_490.jpg148075",
+        "receipt_499.jpg101993",
+        "receipt_501.jpg76890",
+        "receipt_508.jpg46864",
+        "receipt_511.jpg146658",
+        "receipt_512.png16336",
+        "receipt_513.jpg22790",
+        "receipt_514.png8727",
+        "receipt_515.jpg141008",
+        "receipt_516.jpg333897",
+        "receipt_517.png252468",
+        "receipt_519.png152683",
+        "receipt_522.jpg118454",
+        "receipt_524.jpg274422",
+        "receipt_525.jpg38022",
+        "receipt_526.jpg142999",
+        "receipt_535.jpg105937",
+        "receipt_536.jpg100310",
+        "receipt_539.jpg87854",
+        "receipt_540.jpg311067",
+        "receipt_543.jpg1266349",
+        "receipt_545.png292795",
+        "receipt_549.jpg251620",
+        "receipt_552.png52099",
+        "receipt_554.jpg29964",
+        "receipt_555.jpg81537",
+        "receipt_564.jpg557361",
+        "receipt_565.jpg343740",
+        "receipt_566.jpg541756",
+        "receipt_568.jpg229182",
+        "receipt_572.jpeg34987",
+        "receipt_575.jpg96678",
+        "receipt_576.jpg99918",
+        "receipt_578.jpg65889",
+        "receipt_579.jpg58942",
+        "receipt_587.jpg1050012",
+        "receipt_592.jpg142367",
+        "receipt_595.jpg11933",
+        "receipt_600.jpg126308",
+        "receipt_606.jpg198794",
+        "receipt_607.jpg99746",
+        "receipt_611.jpg38688",
+        "receipt_614.jpg20294",
+        "receipt_618.jpg322997",
+        "receipt_619.jpg618165",
+        "receipt_625.jpeg84457",
+        "receipt_626.jpg69318",
+        "receipt_629.png144292",
+        "receipt_635.jpg214173",
+        "receipt_637.jpg137179",
+        "receipt_638.jpg88120",
+        "receipt_639.jpg155590",
+        "receipt_644.jpg151575",
+        "receipt_645.jpg30062",
+        "receipt_659.jpg56744",
+        "receipt_660.jpg65018",
+        "receipt_663.jpeg66378",
+        "receipt_667.jpg181746",
+        "receipt_669.jpg112710",
+        "receipt_671.jpg44898",
+        "receipt_672.jpg2530508",
+        "receipt_673.jpg183571",
+        "receipt_674.jpeg426238",
+        "receipt_676.jpg136850",
+        "receipt_679.jpg331162",
+        "receipt_680.jpg1343118",
+        "receipt_684.jpg71322",
+        "receipt_687.jpg70506",
+        "receipt_689.jpg137436",
+        "receipt_690.png104707",
+        "receipt_694.jpg16213",
+        "receipt_695.jpg19165",
+        "receipt_697.jpg83942",
+        "receipt_698.png1100566",
+        "receipt_702.png52574",
+        "receipt_703.jpg49601",
+        "receipt_704.JPG284983",
+        "receipt_710.jpg251118",
+        "receipt_711.png110865",
+        "receipt_717.jpg1547252",
+        "receipt_719.jpg90300",
+        "receipt_722.jpg105623",
+        "receipt_723.jpg119550"
     ]
 }
