@@ -129,6 +129,7 @@ dependencies:
   - icu=70.1=h27087fc_0
   - idna=3.7=py310h06a4308_0
   - imagecodecs=2023.1.23=py310hc4b7b5f_0
+  - imagehash=4.3.1=pyhd8ed1ab_0
   - imageio=2.34.1=pyh4b66e23_0
   - importlib-metadata=6.8.0=pyha770c72_0
   - importlib_metadata=6.8.0=hd8ed1ab_0

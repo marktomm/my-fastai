@@ -71,6 +71,10 @@ conda install -c conda-forge opencv easyocr
 sudo apt install -y libgl1-mesa-glx
 ```
 
+```shell
+conda install -c conda-forge imagehash
+```
+
 # File structure
 
 Files beginning with `fai22` refer to `https://github.com/fastai/course22` 
