@@ -72,7 +72,8 @@ sudo apt install -y libgl1-mesa-glx
 ```
 
 ```shell
-conda install -c conda-forge imagehash
+conda install -c conda-forge imagehash timm detectron2
+sudo apt install -y unzip # or zip
 ```
 
 # File structure
