@@ -1,3 +1,6 @@
 [submodule "receipts/images_eng"]
 	path = receipts/images_eng
 	url = git@github.com:marktomm/images_eng.git
+[submodule "receipts/images_est"]
+	path = receipts/images_est
+	url = git@github.com:marktomm/images_est.git
