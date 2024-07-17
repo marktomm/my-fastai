@@ -4,3 +4,6 @@
 [submodule "receipts/images_est"]
 	path = receipts/images_est
 	url = git@github.com:marktomm/images_est.git
+[submodule "receiptes/receipt_or_not"]
+	path = receiptes/receipt_or_not
+	url = git@github.com:marktomm/receipt_or_not.git
